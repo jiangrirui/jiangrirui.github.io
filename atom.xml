@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-09T07:06:52.511Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/10/09/2021-10-05/"/>
+    <id>http://example.com/2021/10/09/2021-10-05/</id>
+    <published>2021-10-09T07:13:17.195Z</published>
+    <updated>2021-10-09T07:06:52.511Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;int main和void main的区别&lt;/strong&gt;&lt;br&gt;   void main有返回值 int main没有返回值&lt;br&gt;   void main可以用int main代替&lt;br&gt;  </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/09/29/2021-09-29%20(1)/"/>
+    <id>http://example.com/2021/09/29/2021-09-29%20(1)/</id>
+    <published>2021-09-29T09:40:47.999Z</published>
+    <updated>2021-09-29T09:42:47.330Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;title: &lt;strong&gt;如何在github上搭建个人博客（大佬勿进）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如何利用hexo框架搭配github搭建个人博客&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;下载node.js，git及npm </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/09/18/hello-world/"/>
+    <id>http://example.com/2021/09/18/hello-world/</id>
+    <published>2021-09-17T17:09:49.815Z</published>
+    <updated>2021-09-17T17:09:49.815Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
